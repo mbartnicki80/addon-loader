@@ -5,8 +5,8 @@
 // @match        https://*.margonem.pl/*
 // @grant        GM_xmlhttpRequest
 
-// @downloadURL  https://raw.githubusercontent.com/mbartnicki80/addon-loader/main/loader.user.js
-// @updateURL    https://raw.githubusercontent.com/mbartnicki80/addon-loader/main/loader.user.js
+// @downloadURL  https://raw.githubusercontent.com/mbartnicki80/addon-loader/main/loader.js
+// @updateURL    https://raw.githubusercontent.com/mbartnicki80/addon-loader/main/loader.js
 
 // @connect      margonem-addons.mateuszbartnickiq.workers.dev
 // @connect      api.lootlog.pl
