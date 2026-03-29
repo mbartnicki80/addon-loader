@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Margonem Addon Loader
 // @namespace    margonem-addons
-// @version      2.4
+// @version      2.5
 // @match        https://*.margonem.pl/*
 // @grant        GM_xmlhttpRequest
 // @description  addons loader
